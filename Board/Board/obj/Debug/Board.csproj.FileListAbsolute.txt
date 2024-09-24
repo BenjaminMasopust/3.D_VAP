@@ -1,0 +1,6 @@
+R:\VAP\3.D\repozitář\Board\Board\obj\Debug\Board.csprojResolveAssemblyReference.cache
+R:\VAP\3.D\repozitář\Board\Board\bin\Debug\Board.exe.config
+R:\VAP\3.D\repozitář\Board\Board\bin\Debug\Board.exe
+R:\VAP\3.D\repozitář\Board\Board\bin\Debug\Board.pdb
+R:\VAP\3.D\repozitář\Board\Board\obj\Debug\Board.exe
+R:\VAP\3.D\repozitář\Board\Board\obj\Debug\Board.pdb
