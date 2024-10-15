@@ -1,0 +1,6 @@
+R:\VAP\3.D\repozitář\rozhraní a datové struktury\rozhraní a datové struktury\bin\Debug\rozhraní a datové struktury.exe.config
+R:\VAP\3.D\repozitář\rozhraní a datové struktury\rozhraní a datové struktury\bin\Debug\rozhraní a datové struktury.exe
+R:\VAP\3.D\repozitář\rozhraní a datové struktury\rozhraní a datové struktury\bin\Debug\rozhraní a datové struktury.pdb
+R:\VAP\3.D\repozitář\rozhraní a datové struktury\rozhraní a datové struktury\obj\Debug\rozhraní a datové struktury.csprojResolveAssemblyReference.cache
+R:\VAP\3.D\repozitář\rozhraní a datové struktury\rozhraní a datové struktury\obj\Debug\rozhraní a datové struktury.exe
+R:\VAP\3.D\repozitář\rozhraní a datové struktury\rozhraní a datové struktury\obj\Debug\rozhraní a datové struktury.pdb
